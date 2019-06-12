@@ -21,6 +21,6 @@ figcaption {
   text-align: right;
 }
 
-.milk-text { /* select element */
+.milk-text { /* select elements with class */
   font: bold;
 }
